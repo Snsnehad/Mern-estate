@@ -1,5 +1,4 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { action } from "react";
 
 const initialState={
   currentUser:null,
